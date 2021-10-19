@@ -1,0 +1,29 @@
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.deps.json
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csprojAssemblyReference.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.deps.json
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\Users\Nicolas\Documents\misionTicc3\trabajo_profe\HolaWeb Oct 8\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.deps.json
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\Users\Nicolas\Documents\misionTicc3\ProyectoFInal\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
